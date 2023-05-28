@@ -9,11 +9,11 @@ automatic_scaling:
   min_instances: 0
   min_idle_instances: 0
   min_pending_latency: 3000ms
-  max_pending_latency: automatic
+  max_pending_latency: 15s
 env_variables:
   PORT: '8080'
   YOUR_CHANNEL_ACCESS_TOKEN: '2cfdin9XRF3aqvLlCxGwsp8KGSGj9HGs1c9RcCVcE586MY6aCzM6bkwiPEWhQmIzsZzm3s5UYcV34zZpL+lmxsQHWeBlnagVZCLUWLvc2BOAdIpmI/np/FnCHlx9BbeZAIsJCt/OE1HjZuqdgkX+iAdB04t89/1O/w1cDnyilFU='
   YOUR_CHANNEL_SECRET: '88c164bfc9febe1e614ec8ab92cc4a6e'
   YOUR_API: 'DZZQVnMaLMKFJHYaoYuNmQ0TH6RiHNp9'  
-  CHATGPT_API_KEY: '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'
+  CHATGPT_API_KEY: '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'
 
